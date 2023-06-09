@@ -19,7 +19,9 @@
 >> 5- What are your learning goals after reading and reviewing the class README?
 >> 
 >> improve my knowladge in Node and the V8 Engine and knowing how to Importing and Exporting Modules and how can i doing a full “professional” deployment using 2 branches, PR’s, and a continuous process to get code deployed.
+>
 >> 6- why this topic matters as it relates to what you are studying in this module ?
+>> 
 >> The importance of this topic is to enhance my level and knowledge in the backend side using Node.JS
 
 
