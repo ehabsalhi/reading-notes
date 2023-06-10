@@ -1,4 +1,4 @@
- # Reading-Notes
+# Reading-Notes
 >
 > ## This site for keep myself on **the track of my _observations_ and questions from the reading assignments**
 >
