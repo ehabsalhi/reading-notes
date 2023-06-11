@@ -1,4 +1,4 @@
-> [Basic Data Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
+> # [Basic Data Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 >
 >> ## 1- why this topic matters as it relates to what you are studying in this module.
 >> * DSA and algorithms matter because thay are from the fundamental concept of the computer science and thay provide a crucial role in solving problems
