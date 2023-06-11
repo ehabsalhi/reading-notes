@@ -6,11 +6,11 @@
 > ## Code 201 - Foundations of Software Development
 > ## Code 301 - Intermediate Software Development
 > ## Code 401 - Advanced Software Development
->>  ### [Topic Num 1](read-1.md)
+>>  ### [The Growth Mindset](read-1.md)
 >>   
 >>  ### [Node-Ecosystem](Node-Ecosystem.md)
 >>   
->> ###  [Express](Express.md)
+>> ###  [Express, NPM, TDD, CI/CD](Express.md)
 >>   
->> ###  [Data-Structures](Data-Structures.md)
+>> ###  [Data-Structures and algorithms](Data-Structures.md)
 
