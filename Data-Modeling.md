@@ -20,8 +20,26 @@
 >> 
 >> * A foreign key establishes a relationship between two tables in a database and it is a column or a set of columns in one table that refers to the primary key in another table establishing a relationship between the two tables.
 >> * A primary key is a unique identifier for a record in a table,
+>
+>> ##  [sql vs nosql video](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y&ab_channel=Academind)
+>> 1- How do we treat keywords and parameters differently in SQL syntax?
+>> * keywords have predefined meanings in SQL and are used to define the structure and actions of SQL statements like [ SELECT, INSERT, UPDATE, DELETE, CREATE ] .
+>> * parameter represents a value to be supplied at runtime , and it used to handle user input .
 >> 
+>> 2- Define normalization within the context of schemas and data?
 >> 
+>> * Normalization helps to improve database performance, reduce data duplication, and enhance data integrity.
 >> 
+>> 3- Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter?
 >> 
+>> * one-to-one : its mean that one table belong an relate to only one table 
 >> 
+>> * one-to-many : its mean that one table belong to multiple users , or multiple users belong and relate to only one table it's like having a single source connected to multiple destinations.
+>> 
+>> * many-to-many : its mean that  multiple instances of one entity can be associated with multiple instances of another entity , for example we have students and courses each student can enroll in multiple courses and each course can has multiple students 
+>
+>> ## What are your learning goals after reading and reviewing[ the class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-04/)?
+>> * Getting know more about database and its keywords and how to deal with them in the server side 
+> 
+>> ## why this topic matters as it relates to what you are studying in this module ?
+>> * It's very important because when the student deal with the server he should know more about how to storing and secure the data , and what's the data that should be visible to the user
