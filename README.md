@@ -6,9 +6,9 @@
 > ## Code 201 - Foundations of Software Development
 > ## Code 301 - Intermediate Software Development
 > ## Code 401 - Advanced Software Development
->>  ### [The Growth Mindset](read-1.md)
+>> ### [The Growth Mindset](read-1.md)
 >>   
->>  ### [Node-Ecosystem](Node-Ecosystem.md)
+>> ### [Node-Ecosystem](Node-Ecosystem.md)
 >>   
 >> ###  [Express, NPM, TDD, CI/CD](Express.md)
 >>   
@@ -16,4 +16,6 @@
 >> 
 >> ### [Classes - Express router](classes-router.md)
 >> 
->> ### [linked list and Big O](linked-list.md)
+>> ### [linked-list & Big O](linked-list.md)
+>> 
+>> ### [Data-Modeling](Data-Modeling.md)
