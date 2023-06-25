@@ -19,3 +19,5 @@
 >> ### [linked-list & Big O](linked-list.md)
 >> 
 >> ### [Data-Modeling](Data-Modeling.md)
+>> 
+>> ### [Authentication](auth.md)
