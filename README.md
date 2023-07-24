@@ -27,6 +27,8 @@
 >>
 >> ### [WebSocket](WebSocket.md)
 >>
+>> ### [Dynamo-and-Lambda](Dynamo-and-Lambda.md)
+>>
 >> ### [Message Queues](MessageQueues.md)
 >> 
 >> ### [AWS](aws.md)
