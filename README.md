@@ -41,6 +41,6 @@
 >>
 >> ### [React-Hook](React-Hook.md)
 >> 
->> ### [react-useEffect](react-useEffect.md)
+>> ### [React-useEffect](react-useEffect.md)
 >>
->> ### [react-Reducer](react-Reducer.md)
+>> ### [React-Reducer](react-Reducer.md)
