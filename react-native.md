@@ -1,10 +1,10 @@
 > ## Name three Core Components of React Native and describe what they do.
 >
-> <View> : A container that supports layout with flexbox, style, some touch handling, and accessibility controls
+> View: A container that supports layout with flexbox, style, some touch handling, and accessibility controls
 >
-> <Text>	: Displays, styles, and nests strings of text and even handles touch events
+> Text: Displays, styles, and nests strings of text and even handles touch events
 >
-> <Image>	: Displays different types of images
+> Image : Displays different types of images
 
 > ## What problem does React Native solve (why call it native)?
 > 
